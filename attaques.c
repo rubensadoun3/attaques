@@ -1,7 +1,7 @@
 #include <allegro.h>
 #include "attaques.h"
 #include <string.h>
-#include "classe.h"
+#include "CLASSE_ataque.h"
 #include <stdbool.h>
 #include <math.h>
 #define ATTAQUE_CORPS_A_CORPS 0

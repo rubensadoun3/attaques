@@ -2,7 +2,7 @@
 #define ATTAQUES_H
 #include <stdbool.h>
 #include <allegro.h>
-#include "CLASSE.h"
+#include "CLASSE_ataque.h"
 
 #define NB_SORTS 6
 
